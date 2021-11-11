@@ -6,7 +6,7 @@ title: Andrea Forbes
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Data Analyst 2
 
 # Organizations/Affiliations to show in About widget
 organizations:
