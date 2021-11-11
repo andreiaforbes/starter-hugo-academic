@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Andrea Forbes 
+title: Andreia Forbes 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Data Analyst 2
+role: Data Analyst II
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: Salem Sate University
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
