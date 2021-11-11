@@ -10,30 +10,35 @@ role: Data Analyst II
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Salem Sate University
-  url: https://www.stanford.edu/
+- name: University California Irvine
+  url: www.https://ce.uci.edu//
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# About me
+bio: I have over 10 years of work experience in the healthcare and life science industry. I have experience in creating dashboards (Power Bi, Qliksense, QlikView, Tableau), ad hoc analysis, data prototypes, data preparation, cleansing, visualization in R, analyis reporting automation, process improvement working in an agile environment.
+I have recenlty completed the Data Science certificate at UCI where I developed additonal data science skills.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Applied Machine Learning
+- Data Visualization
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Data Science Certificate
+    institution: University of California Irvine 
+    year: 2020
+  - course:  Data Management
+    institution: University of California San Diego
+    year: 2013
+  - course: Project Management Professional Certificate
+    institution: San Diego State University
+    year: 2011
+  - course: Bachelors of Science in Business Administration
+    institution: Salem State College
+    year 2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
