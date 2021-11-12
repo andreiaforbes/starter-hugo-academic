@@ -6,7 +6,7 @@ title: Andrea Forbes
 superuser: true
 
 # Role/position/tagline
-role: Data Analyst 2
+role: Data Analyst II
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: Data Science Certificate
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
