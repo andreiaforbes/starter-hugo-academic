@@ -19,8 +19,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Data Analysis
-- Medical Devices
-- Healthcare
+- Machine Learning
+- Data Visualization
+- Data Engineering
 
 # Education to show in About widget
 education:
