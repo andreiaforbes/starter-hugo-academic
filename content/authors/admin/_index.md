@@ -74,8 +74,8 @@ email: ""
 highlight_name: true
 ---
 
-I have over 10 years of work experience in the healthcare and life science industry. In my recent Data Science Certificate program, I redefined my statistical and vizualization skills (R, Python,Tableau and Power Bi), had an introduction to machine learning, data integration, modeling and ETL.
+I have over 10 years of work experience in the healthcare and life science industry working on Data Analytics projects. In my recent Data Science Certificate program, I redefined my statistical and vizualization skills (R, Python,Tableau and Power Bi), had an introduction to machine learning, data integration, modeling and ETL.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
