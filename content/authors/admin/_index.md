@@ -34,6 +34,7 @@ education:
   - course: Project Management Professional Certificate
     institution: San Diego State University
     year: 2011
+  - course:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
