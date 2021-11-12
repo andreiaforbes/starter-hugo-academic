@@ -30,10 +30,10 @@ education:
     year: 2020
   - course: Data Management
     institution: University of California San Diego
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2013
+  - course: Project Management Professional Certificate
+    institution: San Diego State University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
