@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andrea Forbes 
+title: Andreia Forbes 
 
 # Is this the primary user of the site?
 superuser: true
@@ -26,8 +26,8 @@ interests:
 education:
   courses:
   - course: Data Science Certificate
-    institution: Stanford University
-    year: 2012
+    institution: University of California Irvine
+    year: 2020
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
