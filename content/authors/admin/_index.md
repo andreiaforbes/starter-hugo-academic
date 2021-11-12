@@ -74,7 +74,7 @@ email: ""
 highlight_name: true
 ---
 
-I have over 10 years of work experience in the healthcare and life science industry working on Data Analytics projects. In my recent Data Science Certificate program, I redefined my statistical and vizualization skills (R, Python,Tableau and Power Bi), had an introduction to machine learning, data integration, modeling and ETL.
+I have over 10 years of work experience in the healthcare and life science industry working on Data Analytics projects. In my recent Data Science Certificate program, I redefined my statistical and vizualization skills (R, Python,Tableau and Power Bi), had an introduction to machine learning, data integration, modeling and ETL. I am looking forward to leverage my knowledge and experience into a role as data scientist/analyst.
 
 
 
