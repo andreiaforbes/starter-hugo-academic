@@ -10,7 +10,7 @@ role: Data Analyst II
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: UCI
+- name: University of California Irvine
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
