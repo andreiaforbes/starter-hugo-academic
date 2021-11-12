@@ -28,8 +28,8 @@ education:
   - course: Data Science Certificate
     institution: University of California Irvine
     year: 2020
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Data Management
+    institution: University of California San Diego
     year: 2009
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
