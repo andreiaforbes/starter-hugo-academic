@@ -31,10 +31,10 @@ education:
   - course: Data Management
     institution: University of California San Diego
     year: 2013
-  - course: Project Management Professional Certificate
+  - course: Project Management Certificate
     institution: San Diego State University
     year: 2011
-  - course: Bachelor of Science in Business Administration
+  - course: Bachelor of Science Business Administration
     institution: Salem State College
     year: 2009
 
