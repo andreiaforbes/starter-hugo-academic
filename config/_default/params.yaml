@@ -21,12 +21,12 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: test@example.org
-phone: 888 888 88 88
+phone: 619 988 13 00
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street:
+  city: San Diego
   region: CA
-  postcode: '94305'
+  postcode: '92108'
   country: United States
   country_code: US
 coordinates:
