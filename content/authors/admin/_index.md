@@ -37,7 +37,7 @@ education:
     year: 2011
   - course: Bachelor of Science Business Administration
     institution: Salem State College
-    year: 2009 as
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
