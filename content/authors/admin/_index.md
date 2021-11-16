@@ -36,7 +36,7 @@ education:
     institution: San Diego State University
     year: 2011
   - course: Bachelor of Science Business Administration
-    institution: Salem State College abc
+    institution: Salem State College
     year: 2009
 
 # Social/Academic Networking
