@@ -29,9 +29,9 @@ feature:
   icon_pack: fas
   name: Statistics
 - description:
-  icon: microsoft
+  icon: camera-retro
   icon_pack: fas
-  name: Microsoft Office
+  name: Photography
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
