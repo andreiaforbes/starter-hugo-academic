@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * Develop Power Bi dashboards to show aggregated, for internal and external business units.
         * Modelling
         * Deploying
         

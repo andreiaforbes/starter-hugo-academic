@@ -35,11 +35,11 @@ feature:
 - description:
   icon: chart-pie
   icon_pack: fas
-  name: Visualization
+  name: Dashboards
 - description:
   icon: microsoft
   icon_pack: fab
-  name: Microsoft
+  name: Microsoft Office
 - description:
   icon: chart-line
   icon_pack: fas
