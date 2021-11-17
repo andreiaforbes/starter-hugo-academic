@@ -99,15 +99,20 @@ experience:
         * Managed team members to populate the database to track organization’s contact information as well as contracts, and                   increased the company’s sponsorship and memberships as a result of the implemented project.
 
 
-  - title: Project Manager (Volunteer)
-    company: Jemnet Technologies
+  - title: Administrative Assistant
+    company: Clear Balance by CSI Financial Services	
     company_url: 'https://www.jemnet.com/v3/'
     company_logo: 
     location: San Diego, CA
-    date_start: '2011-06-01'
-    date_end: '2012-10-31'
+    date_start: '2010-08-01'
+    date_end: '2011-10-31'
     description: |2-
         Responsibilities include:
+        
+        * Performed data entry for updating and maintaining Salesforce.com database to ensure database accuracy, data integrity and             data population and made outbound calls to collect and verify information for CRM database.
+        * Assisted in the preparation and editing of client and prospect proposals, training materials, presentations and logistics             and distribution of customer and partner gift programs.
+        * Develop and publish bi-weekly summary report of industry related articles on trends and topics related to CSI’s industry and           business for distribution to management team.
+
 
 design:
   columns: '2'
