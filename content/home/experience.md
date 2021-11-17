@@ -50,6 +50,9 @@ experience:
     date_start: '2013-11-01'
     date_end: '2018-01-31'
     description: |2-
+        Responsibilities include:
+        
+        *
 
 design:
   columns: '2'
