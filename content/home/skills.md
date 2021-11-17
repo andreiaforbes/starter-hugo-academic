@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description:
-  icon: chart-line
+  icon: github
   icon_pack: fas
   name: Statistics
 
