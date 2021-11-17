@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description:
-  icon: microsoft
+  icon: windows
   icon_pack: fas
   name: Photography
 
