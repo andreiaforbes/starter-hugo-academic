@@ -61,6 +61,17 @@ experience:
         * Created and delivered monthly and quarterly standard infusion and medication reports for hospitals across the country, to              assist them increase patient safety and decrease medical errors.
         * Created an automation process using SSIS to decrease time for auditing and managing contracts of infusion customers.
         * Assisted management in managing team projects as well as help training new team members.
+        
+        
+  - title: Clinical Senior Data Analyst
+    company: BD - Becton Dickinson
+    company_url: ''
+    company_logo: 
+    location: California
+    date_start: '2013-11-01'
+    date_end: '2018-01-31'
+    description: |2-
+        Responsibilities include:
 
 
 design:
