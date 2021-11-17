@@ -29,9 +29,9 @@ feature:
   icon_pack: fas
   name: Statistics
 - description:
-  icon: github
+  icon: chart-line
   icon_pack: fas
-  name: Git Hub
+  name: Statistics
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
