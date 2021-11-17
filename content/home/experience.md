@@ -34,8 +34,7 @@ experience:
         
         * Developing Dashbboards - Power Bi, Qliksense and Qlikview
         * Ad hoc analysis - R
-        * MS SQL query development and data engineering
-        * Data exploration, aggregation, analysis and visualization
+        * MS Sql query development data engineeri
         
   - title: Professor of Semiconductor Physics
     company: University X
