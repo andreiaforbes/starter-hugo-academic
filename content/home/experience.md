@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Develop Power Bi dashboards to show aggregated, for internal and external business units.
-        * Modelling
+        * Lead projects from start to end, collecting project requirements, design solutions, estimate time of project duration and            completion, extract, analyze and present data analysis results to customers. 
         * Deploying
         
   - title: Professor of Semiconductor Physics
