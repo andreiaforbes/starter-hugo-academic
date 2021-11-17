@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Data Analyst II
-    company: BD
+    company: BD - Becton Dickinson
     company_url: ''
     company_logo:
     location: California
@@ -40,16 +40,16 @@ experience:
         * Develop Qlik Sense dashboard to show metrics of medication diversion of clinicians, to monitor discrepancies of data loads             for customers.
         * Work with team members to drive solutions that improve team efficiency and project deliverables to customers. 
         * Use Github to store, track, review, test and manage source code with team members. 
-        * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+        
+  - title: Clinical Senior Data Analyst
+    company: BD - Becton Dickinson
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2013-11-01'
+    date_end: '2018-01-31'
+    description: |2-
 
 design:
   columns: '2'
