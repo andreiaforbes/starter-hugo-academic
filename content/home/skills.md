@@ -19,7 +19,11 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: python
+  name: R
+- description: 90%
+  icon: fa-python
+  icon_pack: fab
+  name: Python
 - description: 100%
   icon: chart-line
   icon_pack: fas
