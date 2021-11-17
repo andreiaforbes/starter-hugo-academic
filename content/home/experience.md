@@ -33,7 +33,13 @@ experience:
         Responsibilities include:
         
         * Develop Power Bi dashboards to show aggregated, for internal and external business units.
-        * Lead projects from start to end, collecting project requirements, design solutions, estimate time of project duration and            completion, extract, analyze and present data analysis results to customers. 
+        * Lead projects from start to end, collecting project requirements, design solutions, estimate time of project duration and              completion, extract, analyze and present data analysis results to customers. 
+        * Perform data exploration, aggregation, analysis, and visualizations using R. 
+        * Automated analysis and facilitate data access reporting for internal customers.
+        * Develop complex SQL queries, using different data sources (Hadoop/MS SQL) to create datasets for statistical analysis.
+        * Develop Qlik Sense dashboard to show metrics of medication diversion of clinicians, to monitor discrepancies of data loads             for customers.
+        * Work with team members to drive solutions that improve team efficiency and project deliverables to customers. 
+        * Use Github to store, track, review, test and manage source code with team members. 
         * Deploying
         
   - title: Professor of Semiconductor Physics
