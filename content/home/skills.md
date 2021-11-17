@@ -30,8 +30,12 @@ feature:
   name: Github
 - description:
   icon: database
-  icon_pack: fab
+  icon_pack: fas
   name: MS SQL & Hadoop
+- description:
+  icon: chart-pie
+  icon_pack: fas
+  name: Visualization
 - description:
   icon: microsoft
   icon_pack: fab
