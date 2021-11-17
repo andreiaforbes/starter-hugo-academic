@@ -22,19 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Data Analyst
+  - title: Data Analyst II
     company: BD
     company_url: ''
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2018-02-01'
+    date_end: 'Present'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developing Dashbboards - Power Bi, Qliksense and Qlikview
+        * Ad hoc analysis - R
+        * MS SQL query development and data engineering
+        * Data exploration, aggregation, analysis and visualization
         
   - title: Professor of Semiconductor Physics
     company: University X
