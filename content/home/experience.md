@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Data Analyst II
     company: BD - Becton Dickinson
-    company_url: ''
+    company_url: 'www.bd.com'
     company_logo:
     location: California
     date_start: '2018-02-01'
@@ -44,7 +44,7 @@ experience:
         
   - title: Clinical Senior Data Analyst
     company: BD - Becton Dickinson
-    company_url: ''
+    company_url: 'www.bd.com'
     company_logo: 
     location: California
     date_start: '2013-11-01'
@@ -65,7 +65,7 @@ experience:
         
   - title: Clinical Data Analyst
     company: CareFusion
-    company_url: ''
+    company_url: 'www.bd.com'
     company_logo: 
     location: California
     date_start: '2011-10-01'
@@ -86,7 +86,7 @@ experience:
         
   - title: Database Manager (Volunteer)
     company: PMI San Diego Chapter
-    company_url: ''
+    company_url: 'https://pmi-sd.org/'
     company_logo: 
     location: San Diego, CA
     date_start: '2011-06-01'
@@ -99,7 +99,15 @@ experience:
         * Managed team members to populate the database to track organization’s contact information as well as contracts, and                   increased the company’s sponsorship and memberships as a result of the implemented project.
 
 
-
+  - title: Project Manager (Volunteer)
+    company: Jemnet Technologies
+    company_url: 'https://www.jemnet.com/v3/'
+    company_logo: 
+    location: San Diego, CA
+    date_start: '2011-06-01'
+    date_end: '2012-10-31'
+    description: |2-
+        Responsibilities include:
 
 design:
   columns: '2'
