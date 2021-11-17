@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R
 - description: 90%
-  icon: <i class="fab fa-python"></i>
+  icon: python
   icon_pack: fab
   name: Python
 - description: 100%
