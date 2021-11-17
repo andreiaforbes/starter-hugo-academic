@@ -52,7 +52,16 @@ experience:
     description: |2-
         Responsibilities include:
         
-        *
+        * Developed queries, created store procedures and SSIS packages to extract data, and developed Infusion surveillance QlikView            dashboards for internal customers, to track infusion pumps malfunction.
+        * Automated standard processes by using store procedures and SSIS to extract SQL data and update QlikView dashboards.
+        * Imported data from several data sources into MS SQL to facilitate data analysis and data mining.
+        * Completed ad hoc analysis for company’s products, medical and lab data, documented the process, and automated them.
+        * Worked with different teams across the organization, (contracts, engineering, sales) to create a better process for                    onboarding new customers as well as improving current processes.
+        * Developed reports and presentations of clinical data with Microsoft SSRS for internal and external customers.
+        * Created and delivered monthly and quarterly standard infusion and medication reports for hospitals across the country, to              assist them increase patient safety and decrease medical errors.
+        * Created an automation process using SSIS to decrease time for auditing and managing contracts of infusion customers.
+        * Assisted management in managing team projects as well as help training new team members.
+
 
 design:
   columns: '2'
