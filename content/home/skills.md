@@ -29,9 +29,9 @@ feature:
   icon_pack: fas
   name: Statistics
 - description:
-  icon: windows
+  icon: github
   icon_pack: fas
-  name: Photography
+  name: Git Hub
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
