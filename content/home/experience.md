@@ -63,15 +63,26 @@ experience:
         * Assisted management in managing team projects as well as help training new team members.
         
         
-  - title: Clinical Senior Data Analyst
-    company: BD - Becton Dickinson
+  - title: Clinical Data Analyst
+    company: CareFusion
     company_url: ''
     company_logo: 
     location: California
-    date_start: '2013-11-01'
-    date_end: '2018-01-31'
+    date_start: '2011-10-01'
+    date_end: '2013-10-31'
     description: |2-
         Responsibilities include:
+        
+        * Lead training seminars for customers of company medical devices and software tools.
+        * Defined methodology and analytics approach as required for each specific data analysis project.
+        * Developed understandable report presentations of clinical and financial data for senior management.
+        * Developed prototype reporting/analysis templates (static and interactive).
+        *	Prepared various reports required by internal and external customers on a routine and ad hoc basis.
+        *	Interacted with and support cross-functional teams in new product development initiatives.
+        *	Conducted analysis of healthcare data and develop continuous quality improvement documents and tools. 
+        *	Followed standard protocols in using technology and applying clinical information.
+        *	Adhered to standards for communicating processes and methodologies related to programs and projects.
+
 
 
 design:
