@@ -25,11 +25,11 @@ feature:
   icon_pack: fab
   name: Python
 - description:
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description:
   icon: github
+  icon_pack: fas
+  name: Github
+- description:
+  icon: chart-line
   icon_pack: fas
   name: Statistics
 
