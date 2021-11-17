@@ -39,7 +39,8 @@ experience:
         * Develop complex SQL queries, using different data sources (Hadoop/MS SQL) to create datasets for statistical analysis.
         * Develop Qlik Sense dashboard to show metrics of medication diversion of clinicians, to monitor discrepancies of data loads             for customers.
         * Work with team members to drive solutions that improve team efficiency and project deliverables to customers. 
-        * Use Github to store, track, review, test and manage source code with team members.
+        * Use Github to store, track, review, test and manage source code with team members. 
+        * Deploying
         
   - title: Professor of Semiconductor Physics
     company: University X
