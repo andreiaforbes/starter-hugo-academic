@@ -26,7 +26,7 @@ feature:
   name: Python
 - description:
   icon: github
-  icon_pack: fas
+  icon_pack: fab
   name: Github
 - description:
   icon: chart-line
