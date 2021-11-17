@@ -82,6 +82,22 @@ experience:
         *	Conducted analysis of healthcare data and develop continuous quality improvement documents and tools. 
         *	Followed standard protocols in using technology and applying clinical information.
         *	Adhered to standards for communicating processes and methodologies related to programs and projects.
+        
+        
+  - title: Database Manager (Volunteer)
+    company: PMI San Diego Chapter
+    company_url: ''
+    company_logo: 
+    location: San Diego, CA
+    date_start: '2011-06-01'
+    date_end: '2012-10-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Procured vendors and evaluated specific databases with different capabilities to fit business general needs.
+        * Developed scope, evaluated cost and budget, and recommended the best solution for the organization. 
+        * Managed team members to populate the database to track organization’s contact information as well as contracts, and                   increased the company’s sponsorship and memberships as a result of the implemented project.
+
 
 
 
