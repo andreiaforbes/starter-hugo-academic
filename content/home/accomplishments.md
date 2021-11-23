@@ -29,7 +29,7 @@ item:
   description: ""
   organization: Udemy
   organization_url: https://www.coursera.org
-  title: Machine Learning A-Z Hands on Python & R in Data Science
+  title: Machine Learning A-Z Hands on Python & R in Data Science aa
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
