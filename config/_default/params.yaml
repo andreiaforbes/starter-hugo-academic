@@ -23,6 +23,17 @@ twitter: ''
 email: andreiaforbes@gmail.comm
 phone: 619 988 13 00
 address:
+  street:
+  city:
+  region:
+  postcode:
+  country: United States
+  country_code: US
+coordinates:
+  latitude:
+  longitude:
+directions:
+office_hours:
   -
   -
 appointment_url:
