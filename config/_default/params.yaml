@@ -23,10 +23,10 @@ twitter: ''
 email: andreiaforbes@gmail.comm
 phone: 619 988 13 00
 address:
-  street: San Diego
+  street:
   city:
-  region: CA
-  postcode: '92108'
+  region:
+  postcode:
   country: United States
   country_code: US
 coordinates:
@@ -36,24 +36,24 @@ directions:
 office_hours:
   -
   -
-appointment_url: 'https://calendly.com'
+appointment_url:
 contact_links:
-  - icon: twitter
+  - icon:
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name:
+    link:
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
+    link:
   - icon: keybase
     icon_pack: fab
     name: Chat on Keybase
-    link: 'https://keybase.io/'
+    link:
   - icon: comments
     icon_pack: fas
     name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link:
 
 # Site header
 
