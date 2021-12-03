@@ -48,11 +48,11 @@ contact_links:
     link:
   - icon: keybase
     icon_pack: fab
-    name: Chat on Keybase
+    name:
     link:
   - icon: comments
     icon_pack: fas
-    name: Discuss on Forum
+    name:
     link:
 
 # Site header
