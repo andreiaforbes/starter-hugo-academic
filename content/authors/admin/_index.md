@@ -10,8 +10,8 @@ role: Data Analyst II
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of California Irvine
-  url: https://ce.uci.edu//
+- name: BD - Beckton and Dickinson
+  url: https://bd.com//
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
